@@ -18,35 +18,7 @@ The project uses SQL queries to extract meaningful insights from student career 
 
 ##  Dataset
 
-The dataset contains student career information with attributes such as:
-
-* Student ID
-* Student Name
-* Age
-* Gender
-* Qualification
-* Department
-* CGPA
-* Backlogs
-* Experience
-* Internships
-* Hobby
-* Interest
-* Field of Interest
-* Job Goal
-* Preferred Location
-* Expected Salary
-* Company Type
-* Work Mode
-* Subject Knowledge
-* Programming Skill
-* Communication Skill
-* Leadership Skill
-* Certifications
-* LinkedIn Profile
-* Hackathon Participation
-* English Proficiency
-* Placement Status
+* The dataset contains student career-related information, including academic performance, skills, internships, career interests, job preferences, salary expectations, certifications, and placement status. It can be used to analyze career preferences, skill development, placement trends, and factors influencing students' career outcomes.
 
 ##  Technologies Used
 
